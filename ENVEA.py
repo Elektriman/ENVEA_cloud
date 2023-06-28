@@ -22,7 +22,7 @@ from logging_config import logger
 # | |____| | (_| \__ \__ \  __/\__ \
 #  \_____|_|\__,_|___/___/\___||___/
 
-class ENVEA(APIDialog):
+class Envea(APIDialog):
     """
     An object to interact with ENVEA's API
 
