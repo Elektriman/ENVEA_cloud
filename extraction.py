@@ -35,27 +35,27 @@ else:
     data_points = pd.DataFrame(columns=["date", "id", "state", "validated", "value"])
 
 data_df_list = [json_normalize(d.json()["data"], "base", meta="id") for d in data_list]
-UPDATED = pd.concat([pd.DataFrame(columns=["date", "id", "state", "validated", "value"])] + data_df_list)
+updated_points = pd.concat([pd.DataFrame(columns=["date", "id", "state", "validated", "value"])] + data_df_list)
 
-UPDATED = UPDATED[UPDATED["id"].str.contains('H2S')]
+updated_points = updated_points[updated_points["id"].str.contains('H2S')]
 
 measures = pd.concat([json_normalize(m.json(), "measures") for m in measures_list])
 sites = pd.concat([json_normalize(s.json(), "sites") for s in sites_list])
 
 # cast datetime data
-UPDATED["date"] = pd.to_datetime(UPDATED["date"], utc=True)
+updated_points["date"] = pd.to_datetime(updated_points["date"], utc=True)
 
-most_recent = most_recent.astype(UPDATED.dtypes)
+most_recent = most_recent.astype(updated_points.dtypes)
 
-for i, row in UPDATED.dropna().iterrows():
+for i, row in updated_points.dropna().iterrows():
     ID = row['id']
     j = most_recent.query("id==@ID").index.values[0]
     if most_recent.loc[j, "date"] < row["date"] or pd.isna(most_recent.loc[j, "date"]):
         most_recent.iloc[j] = row.values
 
-UPDATED["date"] = UPDATED["date"].dt.strftime("%d/%m/%Y %H:%M:%S")
+updated_points["date"] = updated_points["date"].dt.strftime("%d/%m/%Y %H:%M:%S")
 
-data_points = pd.concat([data_points, UPDATED])
+data_points = pd.concat([data_points, updated_points])
 data_points.drop_duplicates(inplace=True)
 
 for col in ["lastDataDate", "startDate", "stopDate"]:
