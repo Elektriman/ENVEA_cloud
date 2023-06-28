@@ -1,0 +1,1097 @@
+2023-04-26 11:26:12,551 - successfully connected to API using credentials
+2023-04-26 11:26:13,775 - successfully retrieved restricted/v1/data
+2023-04-26 11:26:13,866 - successfully retrieved restricted/v1/measures
+2023-04-26 11:26:13,950 - successfully retrieved restricted/v1/sites
+2023-04-26 11:26:14,023 - successfully disconnected from API
+2023-04-26 11:26:51,512 - successful data recovery
+2023-04-26 14:01:32,850 - successfully connected to API using credentials
+2023-04-26 14:01:34,087 - successfully retrieved restricted/v1/data
+2023-04-26 14:01:34,195 - successfully retrieved restricted/v1/measures
+2023-04-26 14:01:34,280 - successfully retrieved restricted/v1/sites
+2023-04-26 14:01:34,381 - successfully disconnected from API
+2023-04-26 14:02:47,595 - successfully connected to API using credentials
+2023-04-26 14:02:49,018 - successfully retrieved restricted/v1/data
+2023-04-26 14:02:49,175 - successfully retrieved restricted/v1/measures
+2023-04-26 14:02:49,314 - successfully retrieved restricted/v1/sites
+2023-04-26 14:02:49,457 - successfully disconnected from API
+2023-04-26 14:04:22,163 - successful data recovery
+2023-04-26 14:05:33,337 - successfully connected to API using credentials
+2023-04-26 14:05:34,595 - successfully retrieved restricted/v1/data
+2023-04-26 14:05:34,728 - successfully retrieved restricted/v1/measures
+2023-04-26 14:05:34,848 - successfully retrieved restricted/v1/sites
+2023-04-26 14:05:34,990 - successfully disconnected from API
+2023-04-26 14:06:41,509 - successful data recovery
+2023-04-26 14:18:06,923 - successfully connected to API using credentials
+2023-04-26 14:18:08,178 - successfully retrieved restricted/v1/data
+2023-04-26 14:18:08,293 - successfully retrieved restricted/v1/measures
+2023-04-26 14:18:08,376 - successfully retrieved restricted/v1/sites
+2023-04-26 14:18:08,467 - successfully disconnected from API
+2023-04-26 14:19:13,146 - successful data recovery
+2023-04-26 15:14:58,773 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-26 15:14:58,773 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-26 15:15:07,879 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-26 15:15:07,879 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-26 15:16:33,096 - successfully connected to API using credentials
+2023-04-26 15:16:34,312 - successfully retrieved restricted/v1/data
+2023-04-26 15:16:34,428 - successfully retrieved restricted/v1/measures
+2023-04-26 15:16:34,531 - successfully retrieved restricted/v1/sites
+2023-04-26 15:16:34,612 - successfully disconnected from API
+2023-04-26 15:16:49,447 - successful data recovery
+2023-04-26 15:50:58,123 - successfully connected to API using credentials
+2023-04-26 15:50:59,851 - successfully retrieved restricted/v1/data
+2023-04-26 15:50:59,960 - successfully retrieved restricted/v1/measures
+2023-04-26 15:51:00,067 - successfully retrieved restricted/v1/sites
+2023-04-26 15:51:00,144 - successfully disconnected from API
+2023-04-26 15:51:45,847 - successful data recovery
+2023-04-26 16:05:02,923 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-26 16:05:02,923 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-26 16:20:03,338 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-26 16:20:03,338 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-26 16:35:02,831 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-26 16:35:02,831 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-26 16:50:02,763 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-26 16:50:02,763 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-26 17:05:03,056 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-26 17:05:03,056 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-26 17:20:02,796 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-26 17:20:02,796 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-26 17:35:03,209 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-26 17:35:03,209 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-26 17:50:03,092 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-26 17:50:03,092 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-26 18:05:02,817 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-26 18:05:02,817 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-26 18:20:03,033 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-26 18:20:03,033 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-26 18:35:02,926 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-26 18:35:02,926 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-26 18:51:04,839 - successfully connected to API using credentials
+2023-04-26 18:51:06,203 - successfully retrieved restricted/v1/data
+2023-04-26 18:51:06,318 - successfully retrieved restricted/v1/measures
+2023-04-26 18:51:06,417 - successfully retrieved restricted/v1/sites
+2023-04-26 18:51:06,504 - successfully disconnected from API
+2023-04-26 18:51:24,921 - successful data recovery
+2023-04-27 08:20:07,892 - successfully connected to API using credentials
+2023-04-27 08:20:09,149 - successfully retrieved restricted/v1/data
+2023-04-27 08:20:09,313 - successfully retrieved restricted/v1/measures
+2023-04-27 08:20:09,427 - successfully retrieved restricted/v1/sites
+2023-04-27 08:20:09,540 - successfully disconnected from API
+2023-04-27 08:20:55,263 - successful data recovery
+2023-04-27 08:35:02,717 - successfully connected to API using credentials
+2023-04-27 08:35:04,128 - successfully retrieved restricted/v1/data
+2023-04-27 08:35:04,227 - successfully retrieved restricted/v1/measures
+2023-04-27 08:35:04,313 - successfully retrieved restricted/v1/sites
+2023-04-27 08:35:04,385 - successfully disconnected from API
+2023-04-27 08:35:24,882 - successful data recovery
+2023-04-27 08:50:02,875 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-27 08:50:02,875 - ConnectionError : HTTPSConnectionPool(host='36294460.envea-dms.cloud', port=443): Max retries exceeded with url: /dms-api/authentification/login (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B6EAAA4880>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2023-04-27 09:05:06,214 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-27 09:05:06,217 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-27 09:20:08,434 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-27 09:20:08,436 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-27 09:35:02,563 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-27 09:35:02,563 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-27 09:50:02,544 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-27 09:50:02,544 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-27 10:05:02,485 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-27 10:05:02,485 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-27 10:20:09,569 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-27 10:20:09,570 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-27 10:35:03,255 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-27 10:35:03,256 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-27 10:50:03,207 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-27 10:50:03,207 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-27 11:05:02,598 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-27 11:05:02,598 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-27 11:20:03,051 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-27 11:20:03,052 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-27 11:35:02,526 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-27 11:35:02,526 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-27 11:50:03,116 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-27 11:50:03,117 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-27 12:05:02,613 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-27 12:05:02,613 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-27 13:20:03,643 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-27 13:20:03,643 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-27 13:35:04,842 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-27 13:35:04,843 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-27 13:50:03,845 - successfully connected to API using credentials
+2023-04-27 13:50:05,679 - successfully retrieved restricted/v1/data
+2023-04-27 13:50:05,793 - successfully retrieved restricted/v1/measures
+2023-04-27 13:50:05,890 - successfully retrieved restricted/v1/sites
+2023-04-27 13:50:05,978 - successfully disconnected from API
+2023-04-27 13:50:27,827 - successful data recovery
+2023-04-27 14:05:03,183 - successfully connected to API using credentials
+2023-04-27 14:05:04,558 - successfully retrieved restricted/v1/data
+2023-04-27 14:05:04,657 - successfully retrieved restricted/v1/measures
+2023-04-27 14:05:04,765 - successfully retrieved restricted/v1/sites
+2023-04-27 14:05:04,866 - successfully disconnected from API
+2023-04-27 14:05:38,984 - successful data recovery
+2023-04-27 14:20:03,284 - successfully connected to API using credentials
+2023-04-27 14:20:04,798 - successfully retrieved restricted/v1/data
+2023-04-27 14:20:04,875 - successfully retrieved restricted/v1/measures
+2023-04-27 14:20:04,943 - successfully retrieved restricted/v1/sites
+2023-04-27 14:20:05,004 - successfully disconnected from API
+2023-04-27 14:20:27,704 - successful data recovery
+2023-04-27 14:35:04,077 - successfully connected to API using credentials
+2023-04-27 14:35:05,251 - successfully retrieved restricted/v1/data
+2023-04-27 14:35:05,356 - successfully retrieved restricted/v1/measures
+2023-04-27 14:35:05,439 - successfully retrieved restricted/v1/sites
+2023-04-27 14:35:05,522 - successfully disconnected from API
+2023-04-27 14:35:30,359 - successful data recovery
+2023-04-27 14:50:03,494 - successfully connected to API using credentials
+2023-04-27 14:50:04,711 - successfully retrieved restricted/v1/data
+2023-04-27 14:50:04,797 - successfully retrieved restricted/v1/measures
+2023-04-27 14:50:04,868 - successfully retrieved restricted/v1/sites
+2023-04-27 14:50:04,949 - successfully disconnected from API
+2023-04-27 14:50:28,419 - successful data recovery
+2023-04-27 15:05:03,174 - successfully connected to API using credentials
+2023-04-27 15:05:04,625 - successfully retrieved restricted/v1/data
+2023-04-27 15:05:04,724 - successfully retrieved restricted/v1/measures
+2023-04-27 15:05:04,788 - successfully retrieved restricted/v1/sites
+2023-04-27 15:05:04,858 - successfully disconnected from API
+2023-04-27 15:05:28,493 - successful data recovery
+2023-04-27 15:20:05,070 - successfully connected to API using credentials
+2023-04-27 15:20:06,490 - successfully retrieved restricted/v1/data
+2023-04-27 15:20:06,574 - successfully retrieved restricted/v1/measures
+2023-04-27 15:20:06,634 - successfully retrieved restricted/v1/sites
+2023-04-27 15:20:06,695 - successfully disconnected from API
+2023-04-27 15:20:32,145 - successful data recovery
+2023-04-27 15:35:03,074 - successfully connected to API using credentials
+2023-04-27 15:35:04,263 - successfully retrieved restricted/v1/data
+2023-04-27 15:35:04,374 - successfully retrieved restricted/v1/measures
+2023-04-27 15:35:04,440 - successfully retrieved restricted/v1/sites
+2023-04-27 15:35:04,504 - successfully disconnected from API
+2023-04-27 15:35:28,156 - successful data recovery
+2023-04-27 15:50:03,467 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-27 15:50:03,467 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-27 16:05:03,284 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-27 16:05:03,284 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-27 16:20:03,770 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-27 16:20:03,770 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-27 16:35:02,972 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-27 16:35:02,972 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-27 16:50:03,093 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-27 16:50:03,093 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-27 17:05:03,432 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-27 17:05:03,432 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-04-27 17:20:03,415 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-04-27 17:20:03,416 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-09 08:39:16,628 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-09 08:39:16,629 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-09 08:40:29,758 - successfully connected to API using credentials
+2023-05-09 08:40:31,385 - successfully retrieved restricted/v1/data
+2023-05-09 08:40:31,500 - successfully retrieved restricted/v1/measures
+2023-05-09 08:40:31,598 - successfully retrieved restricted/v1/sites
+2023-05-09 08:40:31,682 - successfully disconnected from API
+2023-05-09 08:40:51,267 - successful data recovery
+2023-05-09 08:44:15,936 - successfully connected to API using credentials
+2023-05-09 08:44:17,256 - successfully retrieved restricted/v1/data
+2023-05-09 08:44:17,418 - successfully retrieved restricted/v1/measures
+2023-05-09 08:44:17,518 - successfully retrieved restricted/v1/sites
+2023-05-09 08:44:17,578 - successfully disconnected from API
+2023-05-09 08:44:32,437 - successful data recovery
+2023-05-09 08:47:51,583 - successfully connected to API using credentials
+2023-05-09 08:47:52,822 - successfully retrieved restricted/v1/data
+2023-05-09 08:47:52,927 - successfully retrieved restricted/v1/measures
+2023-05-09 08:47:53,011 - successfully retrieved restricted/v1/sites
+2023-05-09 08:47:53,102 - successfully disconnected from API
+2023-05-09 08:48:07,656 - successful data recovery
+2023-05-09 08:50:21,789 - successfully connected to API using credentials
+2023-05-09 08:50:23,188 - successfully retrieved restricted/v1/data
+2023-05-09 08:50:23,319 - successfully retrieved restricted/v1/measures
+2023-05-09 08:50:23,448 - successfully retrieved restricted/v1/sites
+2023-05-09 08:50:23,566 - successfully disconnected from API
+2023-05-09 08:51:00,979 - successful data recovery
+2023-05-09 08:51:10,594 - successfully connected to API using credentials
+2023-05-09 08:51:13,129 - successfully retrieved restricted/v1/data
+2023-05-09 08:51:13,218 - successfully retrieved restricted/v1/measures
+2023-05-09 08:51:13,288 - successfully retrieved restricted/v1/sites
+2023-05-09 08:51:13,358 - successfully disconnected from API
+2023-05-09 08:51:50,291 - successful data recovery
+2023-05-09 09:05:03,910 - successfully connected to API using credentials
+2023-05-09 09:05:04,040 - successfully retrieved restricted/v1/data
+2023-05-09 09:05:04,126 - successfully retrieved restricted/v1/measures
+2023-05-09 09:05:04,237 - successfully retrieved restricted/v1/sites
+2023-05-09 09:05:04,297 - successfully disconnected from API
+2023-05-09 09:05:11,283 - successful data recovery
+2023-05-09 09:20:03,607 - successfully connected to API using credentials
+2023-05-09 09:20:03,737 - successfully retrieved restricted/v1/data
+2023-05-09 09:20:03,837 - successfully retrieved restricted/v1/measures
+2023-05-09 09:20:03,912 - successfully retrieved restricted/v1/sites
+2023-05-09 09:20:03,997 - successfully disconnected from API
+2023-05-09 09:20:09,515 - successful data recovery
+2023-05-09 09:35:03,181 - successfully connected to API using credentials
+2023-05-09 09:35:03,282 - successfully retrieved restricted/v1/data
+2023-05-09 09:35:03,394 - successfully retrieved restricted/v1/measures
+2023-05-09 09:35:03,485 - successfully retrieved restricted/v1/sites
+2023-05-09 09:35:03,552 - successfully disconnected from API
+2023-05-09 09:35:09,747 - successful data recovery
+2023-05-09 09:50:02,934 - successfully connected to API using credentials
+2023-05-09 09:50:03,069 - successfully retrieved restricted/v1/data
+2023-05-09 09:50:03,159 - successfully retrieved restricted/v1/measures
+2023-05-09 09:50:03,243 - successfully retrieved restricted/v1/sites
+2023-05-09 09:50:03,320 - successfully disconnected from API
+2023-05-09 09:50:11,553 - successful data recovery
+2023-05-09 10:05:02,583 - successfully connected to API using credentials
+2023-05-09 10:05:02,700 - successfully retrieved restricted/v1/data
+2023-05-09 10:05:02,816 - successfully retrieved restricted/v1/measures
+2023-05-09 10:05:02,902 - successfully retrieved restricted/v1/sites
+2023-05-09 10:05:02,972 - successfully disconnected from API
+2023-05-09 10:05:08,594 - successful data recovery
+2023-05-09 10:20:02,680 - successfully connected to API using credentials
+2023-05-09 10:20:02,781 - successfully retrieved restricted/v1/data
+2023-05-09 10:20:02,884 - successfully retrieved restricted/v1/measures
+2023-05-09 10:20:02,975 - successfully retrieved restricted/v1/sites
+2023-05-09 10:20:03,056 - successfully disconnected from API
+2023-05-09 10:20:08,387 - successful data recovery
+2023-05-09 10:35:02,959 - successfully connected to API using credentials
+2023-05-09 10:35:03,102 - successfully retrieved restricted/v1/data
+2023-05-09 10:35:03,217 - successfully retrieved restricted/v1/measures
+2023-05-09 10:35:03,305 - successfully retrieved restricted/v1/sites
+2023-05-09 10:35:03,389 - successfully disconnected from API
+2023-05-09 10:35:08,607 - successful data recovery
+2023-05-09 10:50:03,059 - successfully connected to API using credentials
+2023-05-09 10:50:03,170 - successfully retrieved restricted/v1/data
+2023-05-09 10:50:03,249 - successfully retrieved restricted/v1/measures
+2023-05-09 10:50:03,337 - successfully retrieved restricted/v1/sites
+2023-05-09 10:50:03,401 - successfully disconnected from API
+2023-05-09 10:50:08,913 - successful data recovery
+2023-05-09 11:05:02,798 - successfully connected to API using credentials
+2023-05-09 11:05:02,893 - successfully retrieved restricted/v1/data
+2023-05-09 11:05:02,985 - successfully retrieved restricted/v1/measures
+2023-05-09 11:05:03,051 - successfully retrieved restricted/v1/sites
+2023-05-09 11:05:03,109 - successfully disconnected from API
+2023-05-09 11:05:09,310 - successful data recovery
+2023-05-09 11:20:03,418 - successfully connected to API using credentials
+2023-05-09 11:20:03,524 - successfully retrieved restricted/v1/data
+2023-05-09 11:20:03,616 - successfully retrieved restricted/v1/measures
+2023-05-09 11:20:03,691 - successfully retrieved restricted/v1/sites
+2023-05-09 11:20:03,755 - successfully disconnected from API
+2023-05-09 11:20:11,809 - successful data recovery
+2023-05-09 11:35:03,345 - successfully connected to API using credentials
+2023-05-09 11:35:03,464 - successfully retrieved restricted/v1/data
+2023-05-09 11:35:03,570 - successfully retrieved restricted/v1/measures
+2023-05-09 11:35:03,667 - successfully retrieved restricted/v1/sites
+2023-05-09 11:35:03,758 - successfully disconnected from API
+2023-05-09 11:35:10,413 - successful data recovery
+2023-05-09 11:50:03,126 - successfully connected to API using credentials
+2023-05-09 11:50:03,215 - successfully retrieved restricted/v1/data
+2023-05-09 11:50:03,313 - successfully retrieved restricted/v1/measures
+2023-05-09 11:50:03,387 - successfully retrieved restricted/v1/sites
+2023-05-09 11:50:03,457 - successfully disconnected from API
+2023-05-09 11:50:12,443 - successful data recovery
+2023-05-09 13:34:24,139 - successfully connected to API using credentials
+2023-05-09 13:34:24,248 - successfully retrieved restricted/v1/data
+2023-05-09 13:34:24,324 - successfully retrieved restricted/v1/measures
+2023-05-09 13:34:24,386 - successfully retrieved restricted/v1/sites
+2023-05-09 13:34:24,447 - successfully disconnected from API
+2023-05-09 13:34:30,710 - successful data recovery
+2023-05-09 13:35:02,465 - successfully connected to API using credentials
+2023-05-09 13:35:02,561 - successfully retrieved restricted/v1/data
+2023-05-09 13:35:02,644 - successfully retrieved restricted/v1/measures
+2023-05-09 13:35:02,745 - successfully retrieved restricted/v1/sites
+2023-05-09 13:35:02,817 - successfully disconnected from API
+2023-05-09 13:35:09,721 - successful data recovery
+2023-05-09 13:39:22,247 - successfully connected to API using credentials
+2023-05-09 13:39:24,090 - successfully retrieved restricted/v1/data
+2023-05-09 13:39:24,191 - successfully retrieved restricted/v1/measures
+2023-05-09 13:39:24,283 - successfully retrieved restricted/v1/sites
+2023-05-09 13:39:24,367 - successfully disconnected from API
+2023-05-09 13:39:47,258 - successful data recovery
+2023-05-09 13:50:02,781 - successfully connected to API using credentials
+2023-05-09 13:50:04,357 - successfully retrieved restricted/v1/data
+2023-05-09 13:50:04,438 - successfully retrieved restricted/v1/measures
+2023-05-09 13:50:04,511 - successfully retrieved restricted/v1/sites
+2023-05-09 13:50:04,602 - successfully disconnected from API
+2023-05-09 13:50:30,522 - successful data recovery
+2023-05-09 14:05:02,262 - successfully connected to API using credentials
+2023-05-09 14:05:03,461 - successfully retrieved restricted/v1/data
+2023-05-09 14:05:03,574 - successfully retrieved restricted/v1/measures
+2023-05-09 14:05:03,654 - successfully retrieved restricted/v1/sites
+2023-05-09 14:05:03,720 - successfully disconnected from API
+2023-05-09 14:05:27,452 - successful data recovery
+2023-05-09 14:20:03,348 - successfully connected to API using credentials
+2023-05-09 14:20:04,635 - successfully retrieved restricted/v1/data
+2023-05-09 14:20:04,752 - successfully retrieved restricted/v1/measures
+2023-05-09 14:20:04,850 - successfully retrieved restricted/v1/sites
+2023-05-09 14:20:04,932 - successfully disconnected from API
+2023-05-09 14:20:39,271 - successful data recovery
+2023-05-09 14:35:03,051 - successfully connected to API using credentials
+2023-05-09 14:35:06,311 - successfully retrieved restricted/v1/data
+2023-05-09 14:35:06,424 - successfully retrieved restricted/v1/measures
+2023-05-09 14:35:06,617 - successfully retrieved restricted/v1/sites
+2023-05-09 14:35:06,790 - successfully disconnected from API
+2023-05-09 14:35:36,444 - successful data recovery
+2023-05-09 14:50:02,383 - successfully connected to API using credentials
+2023-05-09 14:50:03,577 - successfully retrieved restricted/v1/data
+2023-05-09 14:50:03,682 - successfully retrieved restricted/v1/measures
+2023-05-09 14:50:03,771 - successfully retrieved restricted/v1/sites
+2023-05-09 14:50:03,858 - successfully disconnected from API
+2023-05-09 14:50:31,248 - successful data recovery
+2023-05-10 08:35:04,779 - successfully connected to API using credentials
+2023-05-10 08:35:07,307 - successfully retrieved restricted/v1/data
+2023-05-10 08:35:07,412 - successfully retrieved restricted/v1/measures
+2023-05-10 08:35:07,508 - successfully retrieved restricted/v1/sites
+2023-05-10 08:35:07,589 - successfully disconnected from API
+2023-05-10 08:35:35,455 - successful data recovery
+2023-05-10 08:50:03,751 - successfully connected to API using credentials
+2023-05-10 08:50:05,129 - successfully retrieved restricted/v1/data
+2023-05-10 08:50:05,217 - successfully retrieved restricted/v1/measures
+2023-05-10 08:50:05,292 - successfully retrieved restricted/v1/sites
+2023-05-10 08:50:05,367 - successfully disconnected from API
+2023-05-10 08:50:30,855 - successful data recovery
+2023-05-10 09:05:03,359 - successfully connected to API using credentials
+2023-05-10 09:05:06,686 - successfully retrieved restricted/v1/data
+2023-05-10 09:05:06,819 - successfully retrieved restricted/v1/measures
+2023-05-10 09:05:06,934 - successfully retrieved restricted/v1/sites
+2023-05-10 09:05:07,042 - successfully disconnected from API
+2023-05-10 09:05:31,993 - successful data recovery
+2023-05-10 09:20:03,345 - successfully connected to API using credentials
+2023-05-10 09:20:05,381 - successfully retrieved restricted/v1/data
+2023-05-10 09:20:05,472 - successfully retrieved restricted/v1/measures
+2023-05-10 09:20:05,571 - successfully retrieved restricted/v1/sites
+2023-05-10 09:20:05,673 - successfully disconnected from API
+2023-05-10 09:20:30,280 - successful data recovery
+2023-05-10 09:35:03,354 - successfully connected to API using credentials
+2023-05-10 09:35:05,613 - successfully retrieved restricted/v1/data
+2023-05-10 09:35:05,784 - successfully retrieved restricted/v1/measures
+2023-05-10 09:35:05,898 - successfully retrieved restricted/v1/sites
+2023-05-10 09:35:05,978 - successfully disconnected from API
+2023-05-10 09:35:30,498 - successful data recovery
+2023-05-10 09:50:03,647 - successfully connected to API using credentials
+2023-05-10 09:50:06,210 - successfully retrieved restricted/v1/data
+2023-05-10 09:50:06,354 - successfully retrieved restricted/v1/measures
+2023-05-10 09:50:06,458 - successfully retrieved restricted/v1/sites
+2023-05-10 09:50:06,536 - successfully disconnected from API
+2023-05-10 09:50:31,113 - successful data recovery
+2023-05-10 10:05:03,419 - successfully connected to API using credentials
+2023-05-10 10:05:04,837 - successfully retrieved restricted/v1/data
+2023-05-10 10:05:04,923 - successfully retrieved restricted/v1/measures
+2023-05-10 10:05:04,997 - successfully retrieved restricted/v1/sites
+2023-05-10 10:05:05,073 - successfully disconnected from API
+2023-05-10 10:05:30,407 - successful data recovery
+2023-05-10 10:21:08,618 - successfully connected to API using credentials
+2023-05-10 10:21:10,128 - successfully retrieved restricted/v1/data
+2023-05-10 10:21:10,271 - successfully retrieved restricted/v1/measures
+2023-05-10 10:21:10,357 - successfully retrieved restricted/v1/sites
+2023-05-10 10:21:10,446 - successfully disconnected from API
+2023-05-10 10:21:36,329 - successful data recovery
+2023-05-10 10:35:04,525 - successfully connected to API using credentials
+2023-05-10 10:35:06,702 - successfully retrieved restricted/v1/data
+2023-05-10 10:35:06,801 - successfully retrieved restricted/v1/measures
+2023-05-10 10:35:06,901 - successfully retrieved restricted/v1/sites
+2023-05-10 10:35:07,002 - successfully disconnected from API
+2023-05-10 10:35:34,205 - successful data recovery
+2023-05-10 10:50:03,353 - successfully connected to API using credentials
+2023-05-10 10:50:04,792 - successfully retrieved restricted/v1/data
+2023-05-10 10:50:04,882 - successfully retrieved restricted/v1/measures
+2023-05-10 10:50:05,003 - successfully retrieved restricted/v1/sites
+2023-05-10 10:50:05,098 - successfully disconnected from API
+2023-05-10 10:50:29,303 - successful data recovery
+2023-05-17 14:48:09,464 - successfully connected to API using credentials
+2023-05-17 14:48:11,543 - successfully retrieved restricted/v1/data
+2023-05-17 14:48:11,667 - successfully retrieved restricted/v1/measures
+2023-05-17 14:48:11,771 - successfully retrieved restricted/v1/sites
+2023-05-17 14:48:11,864 - successfully disconnected from API
+2023-05-17 14:48:37,641 - successful data recovery
+2023-05-17 14:52:58,244 - successfully connected to API using credentials
+2023-05-17 14:52:59,614 - successfully retrieved restricted/v1/data
+2023-05-17 14:52:59,750 - successfully retrieved restricted/v1/measures
+2023-05-17 14:52:59,844 - successfully retrieved restricted/v1/sites
+2023-05-17 14:52:59,924 - successfully disconnected from API
+2023-05-17 14:53:29,720 - successful data recovery
+2023-05-17 14:54:28,592 - successfully connected to API using credentials
+2023-05-17 14:54:44,860 - successfully retrieved restricted/v1/data in 6 batches
+2023-05-17 14:54:44,992 - successfully retrieved restricted/v1/measures
+2023-05-17 14:54:45,108 - successfully retrieved restricted/v1/sites
+2023-05-17 14:54:45,219 - successfully disconnected from API
+2023-05-17 14:58:08,904 - successful data recovery
+2023-05-22 08:04:33,663 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 08:04:33,664 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 08:04:46,347 - successfully connected to API using credentials
+2023-05-22 08:04:48,428 - successfully retrieved restricted/v1/data
+2023-05-22 08:04:48,511 - successfully retrieved restricted/v1/measures
+2023-05-22 08:04:48,581 - successfully retrieved restricted/v1/sites
+2023-05-22 08:04:48,641 - successfully disconnected from API
+2023-05-22 08:05:06,791 - successful data recovery
+2023-05-22 08:35:03,152 - successfully connected to API using credentials
+2023-05-22 08:35:04,372 - successfully retrieved restricted/v1/data
+2023-05-22 08:35:04,502 - successfully retrieved restricted/v1/measures
+2023-05-22 08:35:04,588 - successfully retrieved restricted/v1/sites
+2023-05-22 08:35:04,673 - successfully disconnected from API
+2023-05-22 08:35:21,423 - successful data recovery
+2023-05-22 08:50:03,576 - successfully connected to API using credentials
+2023-05-22 08:50:04,760 - successfully retrieved restricted/v1/data
+2023-05-22 08:50:04,843 - successfully retrieved restricted/v1/measures
+2023-05-22 08:50:04,908 - successfully retrieved restricted/v1/sites
+2023-05-22 08:50:04,969 - successfully disconnected from API
+2023-05-22 08:50:25,642 - successful data recovery
+2023-05-22 09:05:03,058 - successfully connected to API using credentials
+2023-05-22 09:05:04,296 - successfully retrieved restricted/v1/data
+2023-05-22 09:05:04,390 - successfully retrieved restricted/v1/measures
+2023-05-22 09:05:04,473 - successfully retrieved restricted/v1/sites
+2023-05-22 09:05:04,549 - successfully disconnected from API
+2023-05-22 09:05:22,078 - successful data recovery
+2023-05-22 09:20:12,451 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 09:20:12,451 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 09:35:12,382 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 09:35:12,384 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 09:50:10,064 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 09:50:10,066 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 10:05:09,584 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 10:05:09,586 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 10:50:04,466 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 10:50:04,466 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 11:05:03,575 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 11:05:03,575 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 11:20:03,894 - successfully connected to API using credentials
+2023-05-22 11:20:05,671 - successfully retrieved restricted/v1/data
+2023-05-22 11:20:05,770 - successfully retrieved restricted/v1/measures
+2023-05-22 11:20:05,829 - successfully retrieved restricted/v1/sites
+2023-05-22 11:20:05,889 - successfully disconnected from API
+2023-05-22 11:20:23,916 - successful data recovery
+2023-05-22 11:35:09,775 - successfully connected to API using credentials
+2023-05-22 11:35:11,222 - successfully retrieved restricted/v1/data
+2023-05-22 11:35:11,346 - successfully retrieved restricted/v1/measures
+2023-05-22 11:35:11,430 - successfully retrieved restricted/v1/sites
+2023-05-22 11:35:11,512 - successfully disconnected from API
+2023-05-22 11:36:17,396 - successful data recovery
+2023-05-22 11:50:02,915 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 11:50:02,915 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 12:05:02,970 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 12:05:02,985 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 12:20:02,878 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 12:20:02,878 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 12:35:03,519 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 12:35:03,519 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 12:50:02,854 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 12:50:02,854 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 13:05:03,172 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 13:05:03,172 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 13:20:02,983 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 13:20:02,983 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 13:35:02,850 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 13:35:02,850 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 13:50:03,392 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 13:50:03,392 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 14:05:03,341 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 14:05:03,341 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 14:08:38,364 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 14:08:38,364 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 14:08:49,278 - successfully connected to API using credentials
+2023-05-22 14:08:50,552 - successfully retrieved restricted/v1/data
+2023-05-22 14:08:50,669 - successfully retrieved restricted/v1/measures
+2023-05-22 14:08:50,793 - successfully retrieved restricted/v1/sites
+2023-05-22 14:08:50,880 - successfully disconnected from API
+2023-05-22 14:09:04,389 - successful data recovery
+2023-05-22 14:20:09,209 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 14:20:09,209 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 14:35:02,987 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 14:35:02,987 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 14:50:03,264 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 14:50:03,264 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 15:05:03,195 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 15:05:03,195 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 15:20:03,597 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 15:20:03,597 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 15:35:03,421 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 15:35:03,422 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 15:50:03,014 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 15:50:03,014 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 16:05:03,085 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 16:05:03,085 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-22 16:20:03,040 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-22 16:20:03,040 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-25 08:05:05,212 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-25 08:05:05,212 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-25 08:20:02,545 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-25 08:20:02,545 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-25 08:35:02,775 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-25 08:35:02,775 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-25 08:50:03,190 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-25 08:50:03,191 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-25 09:05:03,231 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-25 09:05:03,231 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-25 09:20:02,867 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-25 09:20:02,868 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-25 14:05:04,310 - successfully connected to API using credentials
+2023-05-25 14:05:06,073 - successfully retrieved restricted/v1/data
+2023-05-25 14:05:06,195 - successfully retrieved restricted/v1/measures
+2023-05-25 14:05:06,260 - successfully retrieved restricted/v1/sites
+2023-05-25 14:05:06,327 - successfully disconnected from API
+2023-05-25 14:05:33,235 - successful data recovery
+2023-05-25 14:20:03,348 - successfully connected to API using credentials
+2023-05-25 14:20:06,367 - successfully retrieved restricted/v1/data
+2023-05-25 14:20:06,471 - successfully retrieved restricted/v1/measures
+2023-05-25 14:20:06,548 - successfully retrieved restricted/v1/sites
+2023-05-25 14:20:06,675 - successfully disconnected from API
+2023-05-25 14:20:28,965 - successful data recovery
+2023-05-25 14:35:03,127 - successfully connected to API using credentials
+2023-05-25 14:35:04,769 - successfully retrieved restricted/v1/data
+2023-05-25 14:35:04,886 - successfully retrieved restricted/v1/measures
+2023-05-25 14:35:04,981 - successfully retrieved restricted/v1/sites
+2023-05-25 14:35:05,074 - successfully disconnected from API
+2023-05-25 14:35:24,308 - successful data recovery
+2023-05-25 14:50:03,278 - successfully connected to API using credentials
+2023-05-25 14:50:05,344 - successfully retrieved restricted/v1/data
+2023-05-25 14:50:05,455 - successfully retrieved restricted/v1/measures
+2023-05-25 14:50:05,557 - successfully retrieved restricted/v1/sites
+2023-05-25 14:50:05,663 - successfully disconnected from API
+2023-05-25 14:50:25,391 - successful data recovery
+2023-05-25 15:05:03,045 - successfully connected to API using credentials
+2023-05-25 15:05:04,946 - successfully retrieved restricted/v1/data
+2023-05-25 15:05:05,074 - successfully retrieved restricted/v1/measures
+2023-05-25 15:05:05,150 - successfully retrieved restricted/v1/sites
+2023-05-25 15:05:05,230 - successfully disconnected from API
+2023-05-25 15:05:29,353 - successful data recovery
+2023-05-25 15:20:08,338 - successfully connected to API using credentials
+2023-05-25 15:20:09,885 - successfully retrieved restricted/v1/data
+2023-05-25 15:20:10,002 - successfully retrieved restricted/v1/measures
+2023-05-25 15:20:10,115 - successfully retrieved restricted/v1/sites
+2023-05-25 15:20:10,186 - successfully disconnected from API
+2023-05-25 15:21:20,357 - successful data recovery
+2023-05-25 15:35:03,455 - successfully connected to API using credentials
+2023-05-25 15:35:05,414 - successfully retrieved restricted/v1/data
+2023-05-25 15:35:05,526 - successfully retrieved restricted/v1/measures
+2023-05-25 15:35:05,636 - successfully retrieved restricted/v1/sites
+2023-05-25 15:35:05,730 - successfully disconnected from API
+2023-05-25 15:35:26,864 - successful data recovery
+2023-05-25 15:50:03,122 - successfully connected to API using credentials
+2023-05-25 15:50:04,482 - successfully retrieved restricted/v1/data
+2023-05-25 15:50:04,575 - successfully retrieved restricted/v1/measures
+2023-05-25 15:50:04,653 - successfully retrieved restricted/v1/sites
+2023-05-25 15:50:04,740 - successfully disconnected from API
+2023-05-25 15:50:27,614 - successful data recovery
+2023-05-25 16:05:03,113 - successfully connected to API using credentials
+2023-05-25 16:05:04,364 - successfully retrieved restricted/v1/data
+2023-05-25 16:05:04,472 - successfully retrieved restricted/v1/measures
+2023-05-25 16:05:04,559 - successfully retrieved restricted/v1/sites
+2023-05-25 16:05:04,640 - successfully disconnected from API
+2023-05-25 16:05:29,041 - successful data recovery
+2023-05-25 16:20:03,324 - successfully connected to API using credentials
+2023-05-25 16:20:04,951 - successfully retrieved restricted/v1/data
+2023-05-25 16:20:05,084 - successfully retrieved restricted/v1/measures
+2023-05-25 16:20:05,176 - successfully retrieved restricted/v1/sites
+2023-05-25 16:20:05,249 - successfully disconnected from API
+2023-05-25 16:20:29,003 - successful data recovery
+2023-05-30 08:05:05,082 - successfully connected to API using credentials
+2023-05-30 08:05:06,443 - successfully retrieved restricted/v1/data
+2023-05-30 08:05:06,598 - successfully retrieved restricted/v1/measures
+2023-05-30 08:05:06,715 - successfully retrieved restricted/v1/sites
+2023-05-30 08:05:06,816 - successfully disconnected from API
+2023-05-30 08:05:41,806 - successful data recovery
+2023-05-30 08:20:04,388 - successfully connected to API using credentials
+2023-05-30 08:20:05,993 - successfully retrieved restricted/v1/data
+2023-05-30 08:20:06,092 - successfully retrieved restricted/v1/measures
+2023-05-30 08:20:06,201 - successfully retrieved restricted/v1/sites
+2023-05-30 08:20:06,335 - successfully disconnected from API
+2023-05-30 08:20:37,606 - successful data recovery
+2023-05-30 08:35:03,100 - successfully connected to API using credentials
+2023-05-30 08:35:04,456 - successfully retrieved restricted/v1/data
+2023-05-30 08:35:04,564 - successfully retrieved restricted/v1/measures
+2023-05-30 08:35:04,648 - successfully retrieved restricted/v1/sites
+2023-05-30 08:35:04,731 - successfully disconnected from API
+2023-05-30 08:35:28,223 - successful data recovery
+2023-05-30 08:50:03,071 - successfully connected to API using credentials
+2023-05-30 08:50:06,027 - successfully retrieved restricted/v1/data
+2023-05-30 08:50:06,182 - successfully retrieved restricted/v1/measures
+2023-05-30 08:50:06,303 - successfully retrieved restricted/v1/sites
+2023-05-30 08:50:06,413 - successfully disconnected from API
+2023-05-30 08:50:29,144 - successful data recovery
+2023-05-30 09:05:03,120 - successfully connected to API using credentials
+2023-05-30 09:05:04,403 - successfully retrieved restricted/v1/data
+2023-05-30 09:05:04,535 - successfully retrieved restricted/v1/measures
+2023-05-30 09:05:04,600 - successfully retrieved restricted/v1/sites
+2023-05-30 09:05:04,664 - successfully disconnected from API
+2023-05-30 09:05:34,213 - successful data recovery
+2023-05-30 09:20:03,513 - successfully connected to API using credentials
+2023-05-30 09:20:04,767 - successfully retrieved restricted/v1/data
+2023-05-30 09:20:04,858 - successfully retrieved restricted/v1/measures
+2023-05-30 09:20:04,939 - successfully retrieved restricted/v1/sites
+2023-05-30 09:20:05,015 - successfully disconnected from API
+2023-05-30 09:20:29,065 - successful data recovery
+2023-05-30 09:35:03,046 - successfully connected to API using credentials
+2023-05-30 09:35:04,474 - successfully retrieved restricted/v1/data
+2023-05-30 09:35:04,573 - successfully retrieved restricted/v1/measures
+2023-05-30 09:35:04,652 - successfully retrieved restricted/v1/sites
+2023-05-30 09:35:04,726 - successfully disconnected from API
+2023-05-30 09:35:29,026 - successful data recovery
+2023-05-30 09:50:03,030 - successfully connected to API using credentials
+2023-05-30 09:50:04,329 - successfully retrieved restricted/v1/data
+2023-05-30 09:50:04,418 - successfully retrieved restricted/v1/measures
+2023-05-30 09:50:04,518 - successfully retrieved restricted/v1/sites
+2023-05-30 09:50:04,612 - successfully disconnected from API
+2023-05-30 09:50:28,921 - successful data recovery
+2023-05-30 10:05:02,938 - successfully connected to API using credentials
+2023-05-30 10:05:04,164 - successfully retrieved restricted/v1/data
+2023-05-30 10:05:04,299 - successfully retrieved restricted/v1/measures
+2023-05-30 10:05:04,407 - successfully retrieved restricted/v1/sites
+2023-05-30 10:05:04,496 - successfully disconnected from API
+2023-05-30 10:05:29,469 - successful data recovery
+2023-05-30 10:20:03,030 - successfully connected to API using credentials
+2023-05-30 10:20:04,443 - successfully retrieved restricted/v1/data
+2023-05-30 10:20:04,555 - successfully retrieved restricted/v1/measures
+2023-05-30 10:20:04,650 - successfully retrieved restricted/v1/sites
+2023-05-30 10:20:04,740 - successfully disconnected from API
+2023-05-30 10:20:29,426 - successful data recovery
+2023-05-30 10:35:03,064 - successfully connected to API using credentials
+2023-05-30 10:35:04,250 - successfully retrieved restricted/v1/data
+2023-05-30 10:35:04,343 - successfully retrieved restricted/v1/measures
+2023-05-30 10:35:04,450 - successfully retrieved restricted/v1/sites
+2023-05-30 10:35:04,525 - successfully disconnected from API
+2023-05-30 10:35:29,637 - successful data recovery
+2023-05-30 10:50:03,051 - successfully connected to API using credentials
+2023-05-30 10:50:04,314 - successfully retrieved restricted/v1/data
+2023-05-30 10:50:04,407 - successfully retrieved restricted/v1/measures
+2023-05-30 10:50:04,506 - successfully retrieved restricted/v1/sites
+2023-05-30 10:50:04,586 - successfully disconnected from API
+2023-05-30 10:50:29,895 - successful data recovery
+2023-05-30 11:05:03,144 - successfully connected to API using credentials
+2023-05-30 11:05:04,472 - successfully retrieved restricted/v1/data
+2023-05-30 11:05:04,639 - successfully retrieved restricted/v1/measures
+2023-05-30 11:05:04,742 - successfully retrieved restricted/v1/sites
+2023-05-30 11:05:04,822 - successfully disconnected from API
+2023-05-30 11:05:30,611 - successful data recovery
+2023-05-30 11:20:03,074 - successfully connected to API using credentials
+2023-05-30 11:20:04,347 - successfully retrieved restricted/v1/data
+2023-05-30 11:20:04,466 - successfully retrieved restricted/v1/measures
+2023-05-30 11:20:04,562 - successfully retrieved restricted/v1/sites
+2023-05-30 11:20:04,642 - successfully disconnected from API
+2023-05-30 11:20:30,271 - successful data recovery
+2023-05-30 11:35:03,192 - successfully connected to API using credentials
+2023-05-30 11:35:04,382 - successfully retrieved restricted/v1/data
+2023-05-30 11:35:04,464 - successfully retrieved restricted/v1/measures
+2023-05-30 11:35:04,537 - successfully retrieved restricted/v1/sites
+2023-05-30 11:35:04,616 - successfully disconnected from API
+2023-05-30 11:35:30,358 - successful data recovery
+2023-05-30 11:50:03,380 - successfully connected to API using credentials
+2023-05-30 11:50:04,714 - successfully retrieved restricted/v1/data
+2023-05-30 11:50:04,820 - successfully retrieved restricted/v1/measures
+2023-05-30 11:50:04,916 - successfully retrieved restricted/v1/sites
+2023-05-30 11:50:05,017 - successfully disconnected from API
+2023-05-30 11:50:30,965 - successful data recovery
+2023-05-30 12:05:03,026 - successfully connected to API using credentials
+2023-05-30 12:05:04,364 - successfully retrieved restricted/v1/data
+2023-05-30 12:05:04,513 - successfully retrieved restricted/v1/measures
+2023-05-30 12:05:04,613 - successfully retrieved restricted/v1/sites
+2023-05-30 12:05:04,690 - successfully disconnected from API
+2023-05-30 12:05:31,369 - successful data recovery
+2023-05-30 12:20:03,308 - successfully connected to API using credentials
+2023-05-30 12:20:04,639 - successfully retrieved restricted/v1/data
+2023-05-30 12:20:04,805 - successfully retrieved restricted/v1/measures
+2023-05-30 12:20:04,874 - successfully retrieved restricted/v1/sites
+2023-05-30 12:20:04,937 - successfully disconnected from API
+2023-05-30 12:20:31,695 - successful data recovery
+2023-05-30 12:35:03,390 - successfully connected to API using credentials
+2023-05-30 12:35:05,084 - successfully retrieved restricted/v1/data
+2023-05-30 12:35:05,197 - successfully retrieved restricted/v1/measures
+2023-05-30 12:35:05,299 - successfully retrieved restricted/v1/sites
+2023-05-30 12:35:05,394 - successfully disconnected from API
+2023-05-30 12:35:31,956 - successful data recovery
+2023-05-30 12:50:03,193 - successfully connected to API using credentials
+2023-05-30 12:50:04,521 - successfully retrieved restricted/v1/data
+2023-05-30 12:50:04,606 - successfully retrieved restricted/v1/measures
+2023-05-30 12:50:04,696 - successfully retrieved restricted/v1/sites
+2023-05-30 12:50:04,770 - successfully disconnected from API
+2023-05-30 12:50:31,621 - successful data recovery
+2023-05-30 13:05:03,221 - successfully connected to API using credentials
+2023-05-30 13:05:04,821 - successfully retrieved restricted/v1/data
+2023-05-30 13:05:04,971 - successfully retrieved restricted/v1/measures
+2023-05-30 13:05:05,060 - successfully retrieved restricted/v1/sites
+2023-05-30 13:05:05,146 - successfully disconnected from API
+2023-05-30 13:05:33,670 - successful data recovery
+2023-05-30 13:20:03,051 - successfully connected to API using credentials
+2023-05-30 13:20:04,277 - successfully retrieved restricted/v1/data
+2023-05-30 13:20:04,380 - successfully retrieved restricted/v1/measures
+2023-05-30 13:20:04,449 - successfully retrieved restricted/v1/sites
+2023-05-30 13:20:04,533 - successfully disconnected from API
+2023-05-30 13:20:32,508 - successful data recovery
+2023-05-30 13:35:03,571 - successfully connected to API using credentials
+2023-05-30 13:35:04,903 - successfully retrieved restricted/v1/data
+2023-05-30 13:35:05,007 - successfully retrieved restricted/v1/measures
+2023-05-30 13:35:05,087 - successfully retrieved restricted/v1/sites
+2023-05-30 13:35:05,157 - successfully disconnected from API
+2023-05-30 13:35:33,659 - successful data recovery
+2023-05-30 13:50:02,986 - successfully connected to API using credentials
+2023-05-30 13:50:04,333 - successfully retrieved restricted/v1/data
+2023-05-30 13:50:04,437 - successfully retrieved restricted/v1/measures
+2023-05-30 13:50:04,555 - successfully retrieved restricted/v1/sites
+2023-05-30 13:50:04,637 - successfully disconnected from API
+2023-05-30 13:50:32,846 - successful data recovery
+2023-05-30 14:05:03,199 - successfully connected to API using credentials
+2023-05-30 14:05:04,910 - successfully retrieved restricted/v1/data
+2023-05-30 14:05:05,061 - successfully retrieved restricted/v1/measures
+2023-05-30 14:05:05,172 - successfully retrieved restricted/v1/sites
+2023-05-30 14:05:05,281 - successfully disconnected from API
+2023-05-30 14:05:34,010 - successful data recovery
+2023-05-30 14:20:03,052 - successfully connected to API using credentials
+2023-05-30 14:20:04,290 - successfully retrieved restricted/v1/data
+2023-05-30 14:20:04,387 - successfully retrieved restricted/v1/measures
+2023-05-30 14:20:04,491 - successfully retrieved restricted/v1/sites
+2023-05-30 14:20:04,584 - successfully disconnected from API
+2023-05-30 14:20:35,607 - successful data recovery
+2023-05-30 14:35:03,170 - successfully connected to API using credentials
+2023-05-30 14:35:05,484 - successfully retrieved restricted/v1/data
+2023-05-30 14:35:05,642 - successfully retrieved restricted/v1/measures
+2023-05-30 14:35:05,770 - successfully retrieved restricted/v1/sites
+2023-05-30 14:35:05,891 - successfully disconnected from API
+2023-05-30 14:35:35,721 - successful data recovery
+2023-05-30 14:50:03,235 - successfully connected to API using credentials
+2023-05-30 14:50:04,492 - successfully retrieved restricted/v1/data
+2023-05-30 14:50:04,572 - successfully retrieved restricted/v1/measures
+2023-05-30 14:50:04,645 - successfully retrieved restricted/v1/sites
+2023-05-30 14:50:04,728 - successfully disconnected from API
+2023-05-30 14:50:37,761 - successful data recovery
+2023-05-30 15:05:03,221 - successfully connected to API using credentials
+2023-05-30 15:05:04,826 - successfully retrieved restricted/v1/data
+2023-05-30 15:05:04,964 - successfully retrieved restricted/v1/measures
+2023-05-30 15:05:05,030 - successfully retrieved restricted/v1/sites
+2023-05-30 15:05:05,094 - successfully disconnected from API
+2023-05-30 15:05:41,555 - successful data recovery
+2023-05-30 15:20:03,015 - successfully connected to API using credentials
+2023-05-30 15:20:04,251 - successfully retrieved restricted/v1/data
+2023-05-30 15:20:04,335 - successfully retrieved restricted/v1/measures
+2023-05-30 15:20:04,406 - successfully retrieved restricted/v1/sites
+2023-05-30 15:20:04,474 - successfully disconnected from API
+2023-05-30 15:20:38,214 - successful data recovery
+2023-05-30 15:35:03,621 - successfully connected to API using credentials
+2023-05-30 15:35:04,977 - successfully retrieved restricted/v1/data
+2023-05-30 15:35:05,068 - successfully retrieved restricted/v1/measures
+2023-05-30 15:35:05,141 - successfully retrieved restricted/v1/sites
+2023-05-30 15:35:05,212 - successfully disconnected from API
+2023-05-30 15:35:56,926 - successful data recovery
+2023-05-30 15:50:05,036 - successfully connected to API using credentials
+2023-05-30 15:50:06,310 - successfully retrieved restricted/v1/data
+2023-05-30 15:50:06,420 - successfully retrieved restricted/v1/measures
+2023-05-30 15:50:06,527 - successfully retrieved restricted/v1/sites
+2023-05-30 15:50:06,626 - successfully disconnected from API
+2023-05-30 15:50:40,804 - successful data recovery
+2023-05-30 16:05:03,101 - successfully connected to API using credentials
+2023-05-30 16:05:04,484 - successfully retrieved restricted/v1/data
+2023-05-30 16:05:04,598 - successfully retrieved restricted/v1/measures
+2023-05-30 16:05:04,675 - successfully retrieved restricted/v1/sites
+2023-05-30 16:05:04,791 - successfully disconnected from API
+2023-05-30 16:05:39,513 - successful data recovery
+2023-05-30 16:20:03,097 - successfully connected to API using credentials
+2023-05-30 16:20:07,729 - successfully retrieved restricted/v1/data
+2023-05-30 16:20:07,859 - successfully retrieved restricted/v1/measures
+2023-05-30 16:20:07,963 - successfully retrieved restricted/v1/sites
+2023-05-30 16:20:08,047 - successfully disconnected from API
+2023-05-30 16:20:40,178 - successful data recovery
+2023-05-30 16:35:03,032 - successfully connected to API using credentials
+2023-05-30 16:35:04,940 - successfully retrieved restricted/v1/data
+2023-05-30 16:35:05,028 - successfully retrieved restricted/v1/measures
+2023-05-30 16:35:05,112 - successfully retrieved restricted/v1/sites
+2023-05-30 16:35:05,185 - successfully disconnected from API
+2023-05-30 16:35:37,001 - successful data recovery
+2023-05-30 16:50:03,483 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-05-30 16:50:03,483 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-05-30 17:50:04,897 - successfully connected to API using credentials
+2023-05-30 17:50:06,608 - successfully retrieved restricted/v1/data
+2023-05-30 17:50:06,719 - successfully retrieved restricted/v1/measures
+2023-05-30 17:50:06,832 - successfully retrieved restricted/v1/sites
+2023-05-30 17:50:06,925 - successfully disconnected from API
+2023-05-30 17:50:47,262 - successful data recovery
+2023-05-30 18:05:03,539 - successfully connected to API using credentials
+2023-05-30 18:05:04,862 - successfully retrieved restricted/v1/data
+2023-05-30 18:05:04,959 - successfully retrieved restricted/v1/measures
+2023-05-30 18:05:05,034 - successfully retrieved restricted/v1/sites
+2023-05-30 18:05:05,121 - successfully disconnected from API
+2023-05-30 18:05:43,682 - successful data recovery
+2023-05-30 18:20:03,844 - successfully connected to API using credentials
+2023-05-30 18:20:04,932 - successfully retrieved restricted/v1/data
+2023-05-30 18:20:05,029 - successfully retrieved restricted/v1/measures
+2023-05-30 18:20:05,114 - successfully retrieved restricted/v1/sites
+2023-05-30 18:20:05,177 - successfully disconnected from API
+2023-05-30 18:20:40,848 - successful data recovery
+2023-05-30 18:35:11,330 - successfully connected to API using credentials
+2023-05-30 18:35:13,005 - successfully retrieved restricted/v1/data
+2023-05-30 18:35:13,190 - successfully retrieved restricted/v1/measures
+2023-05-30 18:35:13,405 - successfully retrieved restricted/v1/sites
+2023-05-30 18:35:13,606 - successfully disconnected from API
+2023-05-30 18:37:54,131 - successful data recovery
+2023-05-30 18:50:11,436 - successfully connected to API using credentials
+2023-05-30 18:50:12,825 - successfully retrieved restricted/v1/data
+2023-05-30 18:50:12,970 - successfully retrieved restricted/v1/measures
+2023-05-30 18:50:13,120 - successfully retrieved restricted/v1/sites
+2023-05-30 18:50:13,253 - successfully disconnected from API
+2023-05-30 18:52:37,216 - successful data recovery
+2023-05-30 19:05:03,416 - successfully connected to API using credentials
+2023-05-30 19:05:04,615 - successfully retrieved restricted/v1/data
+2023-05-30 19:05:04,694 - successfully retrieved restricted/v1/measures
+2023-05-30 19:05:04,764 - successfully retrieved restricted/v1/sites
+2023-05-30 19:05:04,828 - successfully disconnected from API
+2023-05-30 19:05:41,520 - successful data recovery
+2023-05-31 10:21:36,322 - successfully connected to API using credentials
+2023-05-31 10:21:37,562 - successfully retrieved restricted/v1/data
+2023-05-31 10:21:37,662 - successfully retrieved restricted/v1/measures
+2023-05-31 10:21:37,726 - successfully retrieved restricted/v1/sites
+2023-05-31 10:21:37,793 - successfully disconnected from API
+2023-05-31 10:22:20,793 - successful data recovery
+2023-05-31 10:35:02,749 - successfully connected to API using credentials
+2023-05-31 10:35:03,971 - successfully retrieved restricted/v1/data
+2023-05-31 10:35:04,086 - successfully retrieved restricted/v1/measures
+2023-05-31 10:35:04,197 - successfully retrieved restricted/v1/sites
+2023-05-31 10:35:04,316 - successfully disconnected from API
+2023-05-31 10:35:42,571 - successful data recovery
+2023-05-31 10:50:02,961 - successfully connected to API using credentials
+2023-05-31 10:50:04,100 - successfully retrieved restricted/v1/data
+2023-05-31 10:50:04,183 - successfully retrieved restricted/v1/measures
+2023-05-31 10:50:04,260 - successfully retrieved restricted/v1/sites
+2023-05-31 10:50:04,336 - successfully disconnected from API
+2023-05-31 10:50:41,306 - successful data recovery
+2023-05-31 11:05:02,806 - successfully connected to API using credentials
+2023-05-31 11:05:04,089 - successfully retrieved restricted/v1/data
+2023-05-31 11:05:04,173 - successfully retrieved restricted/v1/measures
+2023-05-31 11:05:04,255 - successfully retrieved restricted/v1/sites
+2023-05-31 11:05:04,361 - successfully disconnected from API
+2023-05-31 11:05:40,370 - successful data recovery
+2023-05-31 11:20:03,175 - successfully connected to API using credentials
+2023-05-31 11:20:04,607 - successfully retrieved restricted/v1/data
+2023-05-31 11:20:04,692 - successfully retrieved restricted/v1/measures
+2023-05-31 11:20:04,772 - successfully retrieved restricted/v1/sites
+2023-05-31 11:20:04,846 - successfully disconnected from API
+2023-05-31 11:20:43,202 - successful data recovery
+2023-05-31 11:35:02,654 - successfully connected to API using credentials
+2023-05-31 11:35:04,162 - successfully retrieved restricted/v1/data
+2023-05-31 11:35:04,253 - successfully retrieved restricted/v1/measures
+2023-05-31 11:35:04,334 - successfully retrieved restricted/v1/sites
+2023-05-31 11:35:04,410 - successfully disconnected from API
+2023-05-31 11:35:41,753 - successful data recovery
+2023-05-31 11:50:02,489 - successfully connected to API using credentials
+2023-05-31 11:50:03,875 - successfully retrieved restricted/v1/data
+2023-05-31 11:50:03,953 - successfully retrieved restricted/v1/measures
+2023-05-31 11:50:04,025 - successfully retrieved restricted/v1/sites
+2023-05-31 11:50:04,091 - successfully disconnected from API
+2023-05-31 11:50:40,911 - successful data recovery
+2023-05-31 12:05:02,814 - successfully connected to API using credentials
+2023-05-31 12:05:04,059 - successfully retrieved restricted/v1/data
+2023-05-31 12:05:04,182 - successfully retrieved restricted/v1/measures
+2023-05-31 12:05:04,277 - successfully retrieved restricted/v1/sites
+2023-05-31 12:05:04,352 - successfully disconnected from API
+2023-05-31 12:05:37,640 - successful data recovery
+2023-05-31 14:05:07,664 - successfully connected to API using credentials
+2023-05-31 14:05:10,599 - successfully retrieved restricted/v1/data
+2023-05-31 14:05:10,714 - successfully retrieved restricted/v1/measures
+2023-05-31 14:05:10,810 - successfully retrieved restricted/v1/sites
+2023-05-31 14:05:10,912 - successfully disconnected from API
+2023-05-31 14:06:34,031 - successful data recovery
+2023-05-31 14:20:02,522 - successfully connected to API using credentials
+2023-05-31 14:20:04,020 - successfully retrieved restricted/v1/data
+2023-05-31 14:20:04,154 - successfully retrieved restricted/v1/measures
+2023-05-31 14:20:04,242 - successfully retrieved restricted/v1/sites
+2023-05-31 14:20:04,344 - successfully disconnected from API
+2023-05-31 14:20:42,834 - successful data recovery
+2023-05-31 14:35:02,276 - successfully connected to API using credentials
+2023-05-31 14:35:03,831 - successfully retrieved restricted/v1/data
+2023-05-31 14:35:03,919 - successfully retrieved restricted/v1/measures
+2023-05-31 14:35:04,003 - successfully retrieved restricted/v1/sites
+2023-05-31 14:35:04,086 - successfully disconnected from API
+2023-05-31 14:35:42,812 - successful data recovery
+2023-05-31 14:50:02,339 - successfully connected to API using credentials
+2023-05-31 14:50:03,897 - successfully retrieved restricted/v1/data
+2023-05-31 14:50:03,988 - successfully retrieved restricted/v1/measures
+2023-05-31 14:50:04,061 - successfully retrieved restricted/v1/sites
+2023-05-31 14:50:04,138 - successfully disconnected from API
+2023-05-31 14:50:42,723 - successful data recovery
+2023-05-31 15:05:02,638 - successfully connected to API using credentials
+2023-05-31 15:05:04,706 - successfully retrieved restricted/v1/data
+2023-05-31 15:05:04,793 - successfully retrieved restricted/v1/measures
+2023-05-31 15:05:04,864 - successfully retrieved restricted/v1/sites
+2023-05-31 15:05:04,928 - successfully disconnected from API
+2023-05-31 15:05:45,100 - successful data recovery
+2023-05-31 15:20:08,649 - successfully connected to API using credentials
+2023-05-31 15:20:11,030 - successfully retrieved restricted/v1/data
+2023-05-31 15:20:11,213 - successfully retrieved restricted/v1/measures
+2023-05-31 15:20:11,327 - successfully retrieved restricted/v1/sites
+2023-05-31 15:20:11,439 - successfully disconnected from API
+2023-05-31 15:22:11,098 - successful data recovery
+2023-05-31 15:35:07,946 - successfully connected to API using credentials
+2023-05-31 15:35:10,434 - successfully retrieved restricted/v1/data
+2023-05-31 15:35:10,561 - successfully retrieved restricted/v1/measures
+2023-05-31 15:35:10,669 - successfully retrieved restricted/v1/sites
+2023-05-31 15:35:10,776 - successfully disconnected from API
+2023-05-31 15:37:12,805 - successful data recovery
+2023-05-31 15:50:03,361 - successfully connected to API using credentials
+2023-05-31 15:50:04,505 - successfully retrieved restricted/v1/data
+2023-05-31 15:50:04,626 - successfully retrieved restricted/v1/measures
+2023-05-31 15:50:04,722 - successfully retrieved restricted/v1/sites
+2023-05-31 15:50:04,786 - successfully disconnected from API
+2023-05-31 15:50:46,635 - successful data recovery
+2023-05-31 16:05:02,938 - successfully connected to API using credentials
+2023-05-31 16:05:04,521 - successfully retrieved restricted/v1/data
+2023-05-31 16:05:04,643 - successfully retrieved restricted/v1/measures
+2023-05-31 16:05:04,766 - successfully retrieved restricted/v1/sites
+2023-05-31 16:05:04,850 - successfully disconnected from API
+2023-05-31 16:05:39,822 - successful data recovery
+2023-05-31 16:20:02,444 - successfully connected to API using credentials
+2023-05-31 16:20:03,605 - successfully retrieved restricted/v1/data
+2023-05-31 16:20:03,721 - successfully retrieved restricted/v1/measures
+2023-05-31 16:20:03,813 - successfully retrieved restricted/v1/sites
+2023-05-31 16:20:03,899 - successfully disconnected from API
+2023-05-31 16:20:37,738 - successful data recovery
+2023-05-31 16:35:02,475 - successfully connected to API using credentials
+2023-05-31 16:35:03,788 - successfully retrieved restricted/v1/data
+2023-05-31 16:35:03,869 - successfully retrieved restricted/v1/measures
+2023-05-31 16:35:03,976 - successfully retrieved restricted/v1/sites
+2023-05-31 16:35:04,046 - successfully disconnected from API
+2023-05-31 16:35:38,054 - successful data recovery
+2023-05-31 16:50:02,700 - successfully connected to API using credentials
+2023-05-31 16:50:04,081 - successfully retrieved restricted/v1/data
+2023-05-31 16:50:04,157 - successfully retrieved restricted/v1/measures
+2023-05-31 16:50:04,231 - successfully retrieved restricted/v1/sites
+2023-05-31 16:50:04,291 - successfully disconnected from API
+2023-05-31 16:50:45,791 - successful data recovery
+2023-05-31 17:05:02,547 - successfully connected to API using credentials
+2023-05-31 17:05:03,839 - successfully retrieved restricted/v1/data
+2023-05-31 17:05:03,930 - successfully retrieved restricted/v1/measures
+2023-05-31 17:05:04,025 - successfully retrieved restricted/v1/sites
+2023-05-31 17:05:04,105 - successfully disconnected from API
+2023-05-31 17:05:43,199 - successful data recovery
+2023-06-01 08:35:03,135 - successfully connected to API using credentials
+2023-06-01 08:35:05,319 - successfully retrieved restricted/v1/data
+2023-06-01 08:35:05,429 - successfully retrieved restricted/v1/measures
+2023-06-01 08:35:05,503 - successfully retrieved restricted/v1/sites
+2023-06-01 08:35:05,592 - successfully disconnected from API
+2023-06-01 08:35:45,048 - successful data recovery
+2023-06-01 08:50:03,238 - successfully connected to API using credentials
+2023-06-01 08:50:04,676 - successfully retrieved restricted/v1/data
+2023-06-01 08:50:04,784 - successfully retrieved restricted/v1/measures
+2023-06-01 08:50:04,886 - successfully retrieved restricted/v1/sites
+2023-06-01 08:50:04,972 - successfully disconnected from API
+2023-06-01 08:50:41,764 - successful data recovery
+2023-06-01 09:05:03,224 - successfully connected to API using credentials
+2023-06-01 09:05:04,770 - successfully retrieved restricted/v1/data
+2023-06-01 09:05:04,903 - successfully retrieved restricted/v1/measures
+2023-06-01 09:05:05,012 - successfully retrieved restricted/v1/sites
+2023-06-01 09:05:05,093 - successfully disconnected from API
+2023-06-01 09:05:46,732 - successful data recovery
+2023-06-01 09:20:03,202 - successfully connected to API using credentials
+2023-06-01 09:20:04,551 - successfully retrieved restricted/v1/data
+2023-06-01 09:20:04,653 - successfully retrieved restricted/v1/measures
+2023-06-01 09:20:04,746 - successfully retrieved restricted/v1/sites
+2023-06-01 09:20:04,821 - successfully disconnected from API
+2023-06-01 09:20:41,391 - successful data recovery
+2023-06-01 09:35:03,137 - successfully connected to API using credentials
+2023-06-01 09:35:04,638 - successfully retrieved restricted/v1/data
+2023-06-01 09:35:04,724 - successfully retrieved restricted/v1/measures
+2023-06-01 09:35:04,788 - successfully retrieved restricted/v1/sites
+2023-06-01 09:35:04,852 - successfully disconnected from API
+2023-06-01 09:35:44,256 - successful data recovery
+2023-06-01 09:50:03,131 - successfully connected to API using credentials
+2023-06-01 09:50:04,807 - successfully retrieved restricted/v1/data
+2023-06-01 09:50:04,890 - successfully retrieved restricted/v1/measures
+2023-06-01 09:50:04,965 - successfully retrieved restricted/v1/sites
+2023-06-01 09:50:05,027 - successfully disconnected from API
+2023-06-01 09:50:47,105 - successful data recovery
+2023-06-01 10:05:03,137 - successfully connected to API using credentials
+2023-06-01 10:05:04,497 - successfully retrieved restricted/v1/data
+2023-06-01 10:05:04,577 - successfully retrieved restricted/v1/measures
+2023-06-01 10:05:04,645 - successfully retrieved restricted/v1/sites
+2023-06-01 10:05:04,709 - successfully disconnected from API
+2023-06-01 10:05:48,778 - successful data recovery
+2023-06-01 10:20:02,976 - successfully connected to API using credentials
+2023-06-01 10:20:04,425 - successfully retrieved restricted/v1/data
+2023-06-01 10:20:04,514 - successfully retrieved restricted/v1/measures
+2023-06-01 10:20:04,598 - successfully retrieved restricted/v1/sites
+2023-06-01 10:20:04,674 - successfully disconnected from API
+2023-06-01 10:20:48,580 - successful data recovery
+2023-06-01 10:35:03,570 - successfully connected to API using credentials
+2023-06-01 10:35:04,934 - successfully retrieved restricted/v1/data
+2023-06-01 10:35:05,359 - successfully retrieved restricted/v1/measures
+2023-06-01 10:35:05,435 - successfully retrieved restricted/v1/sites
+2023-06-01 10:35:05,512 - successfully disconnected from API
+2023-06-01 10:35:53,623 - successful data recovery
+2023-06-01 10:50:03,354 - successfully connected to API using credentials
+2023-06-01 10:50:04,919 - successfully retrieved restricted/v1/data
+2023-06-01 10:50:05,021 - successfully retrieved restricted/v1/measures
+2023-06-01 10:50:05,118 - successfully retrieved restricted/v1/sites
+2023-06-01 10:50:05,198 - successfully disconnected from API
+2023-06-01 10:50:50,442 - successful data recovery
+2023-06-05 08:50:07,230 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-06-05 08:50:07,231 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-06-05 09:05:03,034 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-06-05 09:05:03,034 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-06-05 09:20:02,667 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-06-05 09:20:02,667 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-06-05 10:43:34,613 - successfully connected to API using credentials
+2023-06-05 10:43:37,668 - successfully retrieved restricted/v1/data
+2023-06-05 10:43:37,888 - successfully retrieved restricted/v1/measures
+2023-06-05 10:43:38,059 - successfully retrieved restricted/v1/sites
+2023-06-05 10:43:38,193 - successfully disconnected from API
+2023-06-05 10:44:11,939 - successful data recovery
+2023-06-05 11:38:39,512 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-06-05 11:38:39,512 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-06-05 11:38:55,964 - successfully connected to API using credentials
+2023-06-05 11:38:58,540 - successfully retrieved restricted/v1/data
+2023-06-05 11:38:58,723 - successfully retrieved restricted/v1/measures
+2023-06-05 11:38:58,880 - successfully retrieved restricted/v1/sites
+2023-06-05 11:38:58,981 - successfully disconnected from API
+2023-06-05 11:39:35,655 - successfully connected to API using credentials
+2023-06-05 11:39:46,510 - successfully connected to API using credentials
+2023-06-05 11:39:48,623 - successfully retrieved restricted/v1/data
+2023-06-05 11:39:48,740 - successfully retrieved restricted/v1/measures
+2023-06-05 11:39:48,857 - successfully retrieved restricted/v1/sites
+2023-06-05 11:39:48,934 - successfully disconnected from API
+2023-06-05 11:40:22,151 - successful data recovery
+2023-06-05 11:45:53,650 - successfully connected to API using credentials
+2023-06-05 11:45:55,941 - successfully retrieved restricted/v1/data
+2023-06-05 11:45:56,038 - successfully retrieved restricted/v1/measures
+2023-06-05 11:45:56,147 - successfully retrieved restricted/v1/sites
+2023-06-05 11:45:56,232 - successfully disconnected from API
+2023-06-05 11:46:30,103 - successful data recovery
+2023-06-05 11:52:14,217 - successfully connected to API using credentials
+2023-06-05 11:52:15,617 - successfully retrieved restricted/v1/data
+2023-06-05 11:52:15,740 - successfully retrieved restricted/v1/measures
+2023-06-05 11:52:15,846 - successfully retrieved restricted/v1/sites
+2023-06-05 11:52:15,939 - successfully disconnected from API
+2023-06-05 11:52:35,165 - successfully connected to API using credentials
+2023-06-05 11:52:37,116 - successfully retrieved restricted/v1/data
+2023-06-05 11:52:37,307 - successfully retrieved restricted/v1/measures
+2023-06-05 11:52:37,440 - successfully retrieved restricted/v1/sites
+2023-06-05 11:52:37,549 - successfully disconnected from API
+2023-06-05 11:53:05,830 - successful data recovery
+2023-06-05 11:53:20,969 - successfully connected to API using credentials
+2023-06-05 11:53:22,344 - successfully retrieved restricted/v1/data
+2023-06-05 11:53:22,442 - successfully retrieved restricted/v1/measures
+2023-06-05 11:53:22,515 - successfully retrieved restricted/v1/sites
+2023-06-05 11:53:22,579 - successfully disconnected from API
+2023-06-05 11:54:08,625 - successful data recovery
+2023-06-05 11:54:55,275 - successfully connected to API using credentials
+2023-06-05 11:54:56,511 - successfully retrieved restricted/v1/data
+2023-06-05 11:54:56,600 - successfully retrieved restricted/v1/measures
+2023-06-05 11:54:56,674 - successfully retrieved restricted/v1/sites
+2023-06-05 11:54:56,749 - successfully disconnected from API
+2023-06-05 11:55:27,443 - successful data recovery
+2023-06-05 12:03:31,537 - successfully connected to API using credentials
+2023-06-05 12:03:33,396 - successfully retrieved restricted/v1/data
+2023-06-05 12:03:33,488 - successfully retrieved restricted/v1/measures
+2023-06-05 12:03:33,581 - successfully retrieved restricted/v1/sites
+2023-06-05 12:03:33,650 - successfully disconnected from API
+2023-06-05 12:03:49,474 - successfully connected to API using credentials
+2023-06-05 12:03:50,677 - successfully retrieved restricted/v1/data
+2023-06-05 12:03:50,768 - successfully retrieved restricted/v1/measures
+2023-06-05 12:03:50,842 - successfully retrieved restricted/v1/sites
+2023-06-05 12:03:50,908 - successfully disconnected from API
+2023-06-05 12:04:22,397 - successful data recovery
+2023-06-05 12:04:38,707 - successfully connected to API using credentials
+2023-06-05 12:04:40,238 - successfully retrieved restricted/v1/data
+2023-06-05 12:04:40,349 - successfully retrieved restricted/v1/measures
+2023-06-05 12:04:40,421 - successfully retrieved restricted/v1/sites
+2023-06-05 12:04:40,482 - successfully disconnected from API
+2023-06-05 12:05:12,245 - successful data recovery
+2023-06-28 10:28:54,871 - The following exception occured while executing APIDialog.APIDialog.__request
+2023-06-28 10:28:54,872 - ConnectionError : ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2023-06-28 10:29:11,136 - successfully connected to API using credentials
+2023-06-28 10:29:47,121 - successfully retrieved restricted/v1/data in 9 batches
+2023-06-28 10:29:47,228 - successfully retrieved restricted/v1/measures
+2023-06-28 10:29:47,322 - successfully retrieved restricted/v1/sites
+2023-06-28 10:29:47,409 - successfully disconnected from API
+2023-06-28 10:35:01,077 - successful data recovery
+2023-06-28 10:35:17,564 - successfully connected to API using credentials
+2023-06-28 10:35:19,352 - successfully retrieved restricted/v1/data
+2023-06-28 10:35:19,448 - successfully retrieved restricted/v1/measures
+2023-06-28 10:35:19,533 - successfully retrieved restricted/v1/sites
+2023-06-28 10:35:19,627 - successfully disconnected from API
+2023-06-28 10:35:59,133 - successful data recovery
